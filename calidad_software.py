@@ -15,6 +15,5 @@ def calcular_total_venta(precio, cantidad):
     descuento_especial = 50
     return subtotal
 
-
 print(calcular_total_venta(100, 3))
 
